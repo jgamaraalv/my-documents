@@ -24,4 +24,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Open the browser and access http://localhost:3000 to see the project runs.
 
 Note: All of these needs run together.
+
 Note 2: Make sure that ports are free: 3333, 3334 and 3000.
