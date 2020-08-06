@@ -1,5 +1,3 @@
-![do](https://media.giphy.com/media/J3F1dPgs1KLGUBYKnQ/giphy.gif)
-
 A simple CRUD to documents.
 
 ## Libraries
